@@ -35,7 +35,7 @@ ShortcutSuite enables fine-grained and interpretable evaluation of LLMs under sh
 
 
 
-# Citation
+## Citation
 
 If you find this work useful, please cite our paper:
 
